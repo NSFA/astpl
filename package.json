@@ -1,0 +1,24 @@
+{
+  "name": "astpl",
+  "version": "0.0.1",
+  "description": "Javascript String Template Base on AST",
+  "main": "./src/astpl.js",
+  "bin": {
+    "astpl": "./bin/astpl.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NSFA/astpl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NSFA/astpl/issues"
+  },
+  "homepage": "https://github.com/NSFA/astpl#readme",
+  "keywords": [
+    "ast",
+    "NSFA",
+    "astpl"
+  ],
+  "author": "波比(｡･∀･)ﾉﾞ",
+  "license": "MIT"
+}
