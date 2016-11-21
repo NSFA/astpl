@@ -1,4 +1,4 @@
-var astpl = require('../../src/index');
+var token = require('../../src/token');
 var $ = require('jquery');
 var _ = require('lodash');
 

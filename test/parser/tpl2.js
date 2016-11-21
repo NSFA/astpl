@@ -23,7 +23,7 @@ Easy.widget.define({
           </div>'
 });
 
-window.t = new Easy.widget.testq({
+window.t = new Easy.widget.test({
   parent: '#gg',
   data: {
     clazz: 'aa',
